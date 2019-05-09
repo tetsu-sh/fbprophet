@@ -1,2 +1,2 @@
 # predict_finance
-# predict_finance
+fbprophetを用いた株価予測
